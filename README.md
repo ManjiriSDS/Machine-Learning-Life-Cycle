@@ -2,4 +2,4 @@
 
   1. Reading the Data
    
-	   Reading the csv data in Python
+	   Where you read raw data available into the analysis system or software you are using like reading csv file into pandas

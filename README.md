@@ -1,4 +1,4 @@
-# Data Exploration
+# Steps for Data Exploration
 
   1. Reading the Data
    

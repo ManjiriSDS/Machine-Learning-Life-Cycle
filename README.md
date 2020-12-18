@@ -1,4 +1,4 @@
-# Machine-Learning-Life-Cycle 
+# Data Exploration
 
   1. Reading the Data
    
